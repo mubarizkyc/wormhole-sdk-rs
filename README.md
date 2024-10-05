@@ -6,7 +6,7 @@ This repo provides Rust tooling for Wormhole.
 
 - [wormhole-vaas]: Tooling for working with Wormhole VAAs and their payloads
 
-[wormhole-vaas]: ./crates/vaas/
+[wormhole-vaas]: ./solana/vaas/
 
 ### MSRV
 
